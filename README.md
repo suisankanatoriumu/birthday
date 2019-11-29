@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# birthday DB設計
+## personsテーブル
+|Column|Type|Options|
+|------|----|-------|
+|name|string|null: false|
+|birthday|integer|null: false|
+|ralation|string||
