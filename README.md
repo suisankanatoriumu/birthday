@@ -23,8 +23,6 @@ Things you may want to cover:
 
 * ...
 
-＃ birthday DB設計
-＃＃ personsテーブル
 |Column|Type|Options|
 |------|----|-------|
 |name|string|null: false|
