@@ -21,8 +21,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
-# birthday DB設計
-## personsテーブル
+* ...
+
+＃ birthday DB設計
+＃＃ personsテーブル
 |Column|Type|Options|
 |------|----|-------|
 |name|string|null: false|
